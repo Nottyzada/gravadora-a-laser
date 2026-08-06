@@ -31,7 +31,7 @@ Assista à apresentação completa do projeto no link abaixo:
 Este repositório documenta o desenvolvimento de uma **Gravadora a Laser de Arquitetura Aberta**, projeto apresentado na feira **Escola Aberta do CFJL (2026 )**. O objetivo principal do projeto consiste em superar as limitações impostas pelos sistemas industriais tradicionais e proprietários — frequentemente comercializados como "caixas pretas" rígidas, fechadas e de alto custo de manutenção.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nottyzada/gravadora-a-laser/main/imagens/laser-pronta.JPG" alt="Gravadora a Laser Pronta" width="500"/>
+<img src="imagens/laser-pronta-horizontal.png" alt="Gravadora a Laser Pronta" width="800"/>
 </p>
 
 Através da adoção de uma estrutura modular e de código/hardware abertos, a máquina desenvolvida oferece total liberdade para modificações mecânicas, personalização de software e implementação de sistemas de automação avançados.
@@ -48,7 +48,7 @@ A proposta do equipamento baseia-se em quatro pilares fundamentais que garantem 
 
 - **Controle e Automação:** Integração de eletrônica programável e sistemas de controle dedicados para assegurar alta precisão e repetibilidade em processos de corte e gravação.
 
-- **Multidisciplinaridade e Inovação:** O projeto une conceitos de engenharia mecânica, eletrônica, design assistido por computador (CAD ) e programação.
+- **Multidisciplinaridade e Inovação:** O projeto une conceitos de engenharia mecânica, eletrônica, design assistido por computador (CAD) e programação.
 
 ---
 
@@ -74,7 +74,7 @@ A proposta do equipamento baseia-se em quatro pilares fundamentais que garantem 
 
 ## 👥 Equipe e Contato
 
-- **Arthur Emanuel Forster** — `arthuremanuel2918@gmail.com` | (61) 94756-5017
+- **Arthur Emanuel Forster** — `arthuremanuel2918@gmail.com` | (61 ) 94756-5017
 
 - **Vicenzo Beskow Hemmilã** — `vb007661@cfjl.com.br` | (55) 99731-3541
 
