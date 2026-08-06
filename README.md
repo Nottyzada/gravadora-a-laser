@@ -31,7 +31,7 @@ Assista à apresentação completa do projeto no link abaixo:
 Este repositório documenta o desenvolvimento de uma **Gravadora a Laser de Arquitetura Aberta**, projeto apresentado na feira **Escola Aberta do CFJL (2026 )**. O objetivo principal do projeto consiste em superar as limitações impostas pelos sistemas industriais tradicionais e proprietários — frequentemente comercializados como "caixas pretas" rígidas, fechadas e de alto custo de manutenção.
 
 <p align="center">
-<img src="imagens/laser-pronta-horizontal.png" alt="Gravadora a Laser Pronta" width="800"/>
+<img src="imagens/laser-pronta.png" alt="Gravadora a Laser Pronta" width="800"/>
 </p>
 
 Através da adoção de uma estrutura modular e de código/hardware abertos, a máquina desenvolvida oferece total liberdade para modificações mecânicas, personalização de software e implementação de sistemas de automação avançados.
