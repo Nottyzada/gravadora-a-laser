@@ -74,7 +74,7 @@ A proposta do equipamento baseia-se em quatro pilares fundamentais que garantem 
 
 ## 👥 Equipe e Contato
 
-- **Arthur Emanuel Forster** — `af007672@cfjl.com.br` | (61) 94756-5017
+- **Arthur Emanuel Forster** — `arthuremanuel2918@gmail.com` | (61) 94756-5017
 
 - **Vicenzo Beskow Hemmilã** — `vb007661@cfjl.com.br` | (55) 99731-3541
 
